@@ -258,7 +258,7 @@ a:active {
 --*/
 
 .bg-1 {
-  background-image: url('../images/header-bg.jpg');
+  background-image: url('../images/profesional 2.png.');
   background-size:cover;
   background-attachment:fixed;
 }
@@ -350,7 +350,7 @@ a:active {
     }
     .collapse.in {
       ul {
-        
+        list-style: bg;
       }
     }
 }
@@ -449,7 +449,7 @@ a:active {
 
 .call-to-action {
   padding: 90px 0px;
-  background-image: url(../images/call-to-action.jpg);
+  background-image: url(../images/jeff.png);
   background-attachment:fixed;
   background-repeat: no-repeat;
   background-size: cover;
@@ -502,7 +502,7 @@ a:active {
 
 
 .contact {
-
+background-image: none;
 }
 
 
